@@ -4,9 +4,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/GuiJPG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiJPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiJPG&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/GuilhermeJPG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeJPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJPG&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -27,7 +27,7 @@
 </div> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiJPG/GuiJPG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiJPG/GuiJPG/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuiJPG/GuiJPG/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeJPG/GuilhermeJPG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeJPG/GuilhermeJPG/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeJPG/GuilhermeJPG/output/github-contribution-grid-snake.svg">
 </picture>
